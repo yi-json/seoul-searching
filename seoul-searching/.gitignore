@@ -1,1 +1,19 @@
-# secrets
+# Secrets
+seoul-searching/Secrets.plist
+
+# Xcode user data
+*.xcuserstate
+*.xcuserdata/
+*.xcscmblueprint
+*.xcworkspacedata
+
+# Schemes & shared data
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+
+# Build artifacts
+build/
+DerivedData/
+
+# macOS
+.DS_Store
